@@ -1,3 +1,5 @@
+![HTML Assignments Banner](images/image.jpg)
+
 # 🌐 HTML Assignments — Elzero Web School
 
 Welcome to my **HTML learning journey**! This repository contains all my solutions to the HTML assignments from **Elzero Web School**, showcasing my progression from beginner concepts to more advanced HTML techniques.  
